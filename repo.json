@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "name": "terbide",
+      "displayName": "TerbiumAI IDE",
+      "description": "A full-featured code editor with multi-language support and Groq AI.",
+      "version": "1.0.0",
+      "icon": "https://raw.githubusercontent.com/axo4277/terbide/main/icon.png",
+      "downloadUrl": "https://raw.githubusercontent.com/axo4277/terbide/main/terbide%20(1).zip"
+    }
+  ]
+}

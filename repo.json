@@ -1,12 +1,20 @@
 {
-  "apps": [
-    {
-      "name": "terbide",
-      "displayName": "TerbiumAI IDE",
-      "description": "A full-featured code editor with multi-language support and Groq AI.",
-      "version": "1.0.0",
-      "icon": "https://raw.githubusercontent.com/axo4277/terbide/main/icon.png",
-      "downloadUrl": "https://raw.githubusercontent.com/axo4277/terbide/main/terbide%20(1).zip"
-    }
-  ]
+    "repo": {
+        "name": "Axo's Custom Repo",
+        "icon": "https://raw.githubusercontent.com/axo4277/terbide/main/icon.png"
+    },
+    "apps": [
+        {
+            "name": "TerbiumAI IDE",
+            "icon": "https://raw.githubusercontent.com/axo4277/terbide/main/icon.png",
+            "description": "A full-featured code editor with multi-language support and Groq AI integration.",
+            "developer": "axo4277",
+            "version": "1.0.0",
+            "pkg-name": "terbide",
+            "pkg-download": "https://raw.githubusercontent.com/axo4277/terbide/main/terbide%20(1).zip",
+            "size": "1.2 MB",
+            "license": "Apache-2.0"
+        }
+    ],
+    "packages": []
 }

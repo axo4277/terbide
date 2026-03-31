@@ -1,0 +1,13 @@
+{
+"name": "terbium-ai-ide",
+"displayName": "TerbiumAI IDE",
+"description": "A full-featured code editor with multi-language support and Groq AI integration.",
+"main": "app.tml",
+"icon": "icon.png",
+"version": "1.0.0",
+"window": {
+"width": 1100,
+"height": 750,
+"resizable": true
+}
+}
